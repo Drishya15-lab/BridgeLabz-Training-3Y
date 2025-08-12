@@ -1,4 +1,4 @@
-package DivideJava;
+package  DivideJava;
 import java.util.Scanner;
 public class EasyDivide {
     public static void main(String[] args) {
